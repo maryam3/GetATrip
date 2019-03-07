@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GetATrip.iml" filepath="$PROJECT_DIR$/GetATrip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adsinterface/adsinterface.iml" filepath="$PROJECT_DIR$/adsinterface/adsinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aviasalestemplate/aviasalestemplate.iml" filepath="$PROJECT_DIR$/aviasalestemplate/aviasalestemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expandedlistview/expandedlistview.iml" filepath="$PROJECT_DIR$/expandedlistview/expandedlistview.iml" />
+    </modules>
+  </component>
+</project>
